@@ -1,3 +1,0 @@
-int id rv_favorite 0x80010000
-int id tv_empty 0x80010001
-int layout fragment_favorite 0x80020000

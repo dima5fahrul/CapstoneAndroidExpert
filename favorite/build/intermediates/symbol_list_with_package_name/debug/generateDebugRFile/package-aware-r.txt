@@ -1,4 +1,0 @@
-com.example.capstoneandroidexpert.favorite
-id rv_favorite
-id tv_empty
-layout fragment_favorite

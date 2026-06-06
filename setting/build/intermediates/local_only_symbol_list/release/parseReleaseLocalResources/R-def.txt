@@ -1,6 +1,0 @@
-R_DEF: Internal format may change without notice
-local
-id switch_theme
-layout fragment_setting
-string dark_mode
-string settings

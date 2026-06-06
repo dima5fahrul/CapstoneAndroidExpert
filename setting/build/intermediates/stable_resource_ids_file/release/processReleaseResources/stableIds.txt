@@ -1,4 +1,0 @@
-com.example.capstoneandroidexpert:string/settings = 0x81030001
-com.example.capstoneandroidexpert:string/dark_mode = 0x81030000
-com.example.capstoneandroidexpert:layout/fragment_setting = 0x81020000
-com.example.capstoneandroidexpert:id/switch_theme = 0x81010000
