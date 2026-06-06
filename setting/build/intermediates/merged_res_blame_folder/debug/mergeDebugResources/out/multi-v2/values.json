@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.capstoneandroidexpert.setting-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "101,55",
+                        "endColumns": "47,45",
+                        "endOffsets": "144,96"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,45",
+                        "endOffsets": "98,144"
+                    }
+                }
+            ]
+        }
+    ]
+}

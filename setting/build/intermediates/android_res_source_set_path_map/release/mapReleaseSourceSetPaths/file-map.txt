@@ -1,0 +1,8 @@
+com.example.capstoneandroidexpert.setting-pngs-0 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/build/generated/res/pngs/release
+com.example.capstoneandroidexpert.setting-updated_navigation_xml-1 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/build/generated/updated_navigation_xml/release
+com.example.capstoneandroidexpert.setting-packageReleaseResources-2 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.capstoneandroidexpert.setting-packageReleaseResources-3 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.capstoneandroidexpert.setting-release-4 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.capstoneandroidexpert.setting-main-5 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/src/main/res
+com.example.capstoneandroidexpert.setting-release-6 /Users/dimasfahrul/Project/CapstoneAndroidExpert/setting/src/release/res
+gradleHome-0 /Users/dimasfahrul/.gradle

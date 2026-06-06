@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Premium Cinematic Color Palette -->
+    <color name="colorPrimary">#E50914</color>
+    <color name="colorPrimaryDark">#B00710</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorStarGold">#FFC107</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="background_color_dark">#121212</color>
+    <color name="surface_color_dark">#1E1E1E</color>
+    <color name="onBackgroundDark">#E0E0E0</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#8E8E93</color>
+
+    <!-- Light Theme Colors -->
+    <color name="backgroundColorLight">#F8F9FA</color>
+    <color name="surfaceColorLight">#FFFFFF</color>
+    <color name="onBackgroundLight">#1C1C1E</color>
+    <color name="onSurfaceLight">#2C2C2E</color>
+    <color name="textSecondaryLight">#636366</color>
+
+    <!-- Translucent Overlay / Gradient Colors -->
+    <color name="scrim_gradient_start">#00000000</color>
+    <color name="scrim_gradient_end">#CC000000</color>
+    <color name="image_placeholder_bg">#3A3A3C</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.apple.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CapstoneAndroidExpert" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Theme backgrounds and surfaces (Light) -->
+        <item name="android:windowBackground">@color/backgroundColorLight</item>
+        <item name="colorSurface">@color/surfaceColorLight</item>
+        <item name="colorOnBackground">@color/onBackgroundLight</item>
+        <item name="colorOnSurface">@color/onSurfaceLight</item>
+
+        <!-- Status bar styling -->
+        <item name="android:statusBarColor">@color/backgroundColorLight</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.CapstoneAndroidExpert" parent="Base.Theme.CapstoneAndroidExpert" />
+</resources>

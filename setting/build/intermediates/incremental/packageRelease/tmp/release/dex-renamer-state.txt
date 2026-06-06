@@ -1,0 +1,4 @@
+#Sat Jun 06 23:16:44 WIB 2026
+base.0=/Users/dimasfahrul/Project/CapstoneAndroidExpert/app/build/intermediates/feature_dex/release/minifyReleaseWithR8/feature-setting/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

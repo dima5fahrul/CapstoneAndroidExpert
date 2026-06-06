@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CineScope</string>
+    <string name="cd_filter">Filter movies</string>
+    <string name="hint_search_movies">Search movies, genres…</string>
+    <string name="category_all">All</string>
+    <string name="category_now_playing">Now Playing</string>
+    <string name="category_popular">Popular</string>
+    <string name="category_top_rated">Top Rated</string>
+    <string name="category_upcoming">Upcoming</string>
+    <string name="section_movies">Movies</string>
+    <string name="loading_movies">Loading movies…</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="error_message_generic">Please check your connection and try again.</string>
+    <string name="action_retry">Try Again</string>
+    <string name="empty_title">No Movies Found</string>
+    <string name="empty_message_search">Try different keywords or browse a category.</string>
+    <string name="cd_error_icon">Error icon</string>
+    <string name="cd_empty_icon">Empty state icon</string>
+
+    <!-- Detail Page Strings -->
+    <string name="title_synopsis">Synopsis</string>
+    <string name="cd_favorite">Add to Favorite</string>
+    <string name="rating_format">%1$s/10</string>
+    <string name="title_testdynamic">Test</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+</resources>

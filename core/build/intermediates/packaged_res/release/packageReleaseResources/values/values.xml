@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorStarGold">#FFC107</color>
+    <color name="image_placeholder_bg">#3A3A3C</color>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="detail_poster_elevation">6dp</dimen>
+    <dimen name="detail_poster_height">165dp</dimen>
+    <dimen name="detail_poster_overlap">-60dp</dimen>
+    <dimen name="detail_poster_width">110dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="movie_item_height">156dp</dimen>
+    <dimen name="movie_item_poster_height">156dp</dimen>
+    <dimen name="movie_item_poster_width">104dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_medium">20dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="text_body_medium">14sp</dimen>
+    <dimen name="text_body_small">12sp</dimen>
+    <dimen name="text_title_large">22sp</dimen>
+    <dimen name="text_title_medium">18sp</dimen>
+    <dimen name="text_title_small">16sp</dimen>
+    <string name="app_name">Movie App</string>
+    <style name="RoundedCornerLeft" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">@dimen/card_corner_radius</item>
+        <item name="cornerSizeBottomLeft">@dimen/card_corner_radius</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.capstoneandroidexpert.core-release-52:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.example.capstoneandroidexpert.core-material-1.14.0-2:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.example.capstoneandroidexpert.core-release-52:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.example.capstoneandroidexpert.core-material-1.14.0-2:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

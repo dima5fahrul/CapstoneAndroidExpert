@@ -1,0 +1,31 @@
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m1[90m:1:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m26[90m:61:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m45[90m:1:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m59[90m:1:[0m Trailing space(s) [90m(standard:no-trailing-spaces)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m61[90m:24:[0m Trailing space(s) [90m(standard:no-trailing-spaces)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m65[90m:39:[0m Trailing space(s) [90m(standard:no-trailing-spaces)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m68[90m:30:[0m Trailing space(s) [90m(standard:no-trailing-spaces)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m71[90m:5:[0m Trailing space(s) [90m(standard:no-trailing-spaces)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m105[90m:20:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m105[90m:22:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m106[90m:11:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m106[90m:40:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m106[90m:72:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m107[90m:31:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m107[90m:48:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m109[90m:6:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m109[90m:32:[0m Argument should be on a separate line (unless all arguments can fit a single line) [90m(standard:argument-list-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m109[90m:35:[0m A multiline expression should start on a new line [90m(standard:multiline-expression-wrapping)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m109[90m:56:[0m Missing trailing comma before ")" [90m(standard:trailing-comma-on-call-site)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m109[90m:66:[0m Unexpected indentation (4) (should be 8) [90m(standard:indent)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m112[90m:50:[0m Unexpected indentation (8) (should be 12) [90m(standard:indent)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m113[90m:29:[0m Unexpected indentation (4) (should be 8) [90m(standard:indent)[0m
+[90m/Users/dimasfahrul/Project/CapstoneAndroidExpert/core/[0mbuild.gradle.kts[90m:[0m113[90m:35:[0m Redundant curly braces [90m(standard:string-template)[0m
+
+Summary error count (descending) by rule:
+  standard:argument-list-wrapping: 6
+  standard:indent: 5
+  standard:no-trailing-spaces: 5
+  standard:trailing-comma-on-call-site: 4
+  standard:multiline-expression-wrapping: 2
+  standard:string-template: 1

@@ -1,0 +1,8 @@
+com.example.capstoneandroidexpert.favorite-pngs-0 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/build/generated/res/pngs/release
+com.example.capstoneandroidexpert.favorite-updated_navigation_xml-1 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/build/generated/updated_navigation_xml/release
+com.example.capstoneandroidexpert.favorite-packageReleaseResources-2 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.capstoneandroidexpert.favorite-packageReleaseResources-3 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.capstoneandroidexpert.favorite-release-4 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.capstoneandroidexpert.favorite-main-5 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/res
+com.example.capstoneandroidexpert.favorite-release-6 /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/release/res
+gradleHome-0 /Users/dimasfahrul/.gradle

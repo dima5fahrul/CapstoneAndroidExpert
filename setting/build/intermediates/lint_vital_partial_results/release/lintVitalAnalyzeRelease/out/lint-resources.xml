@@ -1,0 +1,1 @@
+http://schemas.android.com/apk/res-auto;;${\:setting*release*MAIN*sourceProvider*0*resDir*0}/layout/fragment_setting.xml,${\:setting*release*MAIN*sourceProvider*0*resDir*0}/values/strings.xml,+id:switch_theme,0,F;+layout:fragment_setting,0,F;+string:settings,1,V400020037,2d00020060,;"Settings";dark_mode,1,V400030065,2f00030090,;"Dark Mode";

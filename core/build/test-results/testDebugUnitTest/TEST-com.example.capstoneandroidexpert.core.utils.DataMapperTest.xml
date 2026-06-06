@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.capstoneandroidexpert.core.utils.DataMapperTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-06-06T16:34:23.081Z" hostname="Dimass-MacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="mapResponsesToEntities handles null posterPath" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.001"/>
+  <testcase name="mapResponsesToEntities handles null releaseDate" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.0"/>
+  <testcase name="mapResponsesToEntities returns empty list for empty input" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.001"/>
+  <testcase name="mapResponsesToEntities maps all fields correctly" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.0"/>
+  <testcase name="mapResponsesToDomain maps all fields correctly" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.0"/>
+  <testcase name="mapEntitiesToDomain maps all fields correctly" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.0"/>
+  <testcase name="mapDomainToEntity maps all fields correctly" classname="com.example.capstoneandroidexpert.core.utils.DataMapperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

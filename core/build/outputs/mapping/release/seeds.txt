@@ -1,0 +1,61 @@
+com.example.capstoneandroidexpert.core.data.source.local.room.MovieDatabase
+com.example.capstoneandroidexpert.core.R$string
+com.example.capstoneandroidexpert.core.R$drawable
+com.example.capstoneandroidexpert.core.R$color
+com.example.capstoneandroidexpert.core.R
+com.example.capstoneandroidexpert.core.R$dimen
+com.example.capstoneandroidexpert.core.R$id
+com.example.capstoneandroidexpert.core.R$layout
+com.example.capstoneandroidexpert.core.data.source.local.room.MovieDatabase_Impl
+com.example.capstoneandroidexpert.core.R$style
+com.example.capstoneandroidexpert.core.R$id: int tvTitle
+com.example.capstoneandroidexpert.core.R$drawable: int ic_favorite_border
+com.example.capstoneandroidexpert.core.R$id: int layoutRating
+com.example.capstoneandroidexpert.core.R$dimen: int detail_poster_overlap
+com.example.capstoneandroidexpert.core.R$id: int tvReleaseDate
+com.example.capstoneandroidexpert.core.R$dimen: int text_title_large
+com.example.capstoneandroidexpert.core.R$dimen: int margin_medium
+com.example.capstoneandroidexpert.core.R$dimen: int padding_default
+com.example.capstoneandroidexpert.core.R$dimen: int text_body_medium
+com.example.capstoneandroidexpert.core.R$id: int tvOverview
+com.example.capstoneandroidexpert.core.R$dimen: int margin_default
+com.example.capstoneandroidexpert.core.R$drawable: int ic_error_outline
+com.example.capstoneandroidexpert.core.R$dimen: int movie_item_poster_width
+com.example.capstoneandroidexpert.core.R$dimen: int card_corner_radius
+com.example.capstoneandroidexpert.core.R$dimen: int movie_item_poster_height
+com.example.capstoneandroidexpert.core.R$dimen: int text_title_small
+com.example.capstoneandroidexpert.core.R$string: int app_name
+com.example.capstoneandroidexpert.core.R$dimen: int margin_large
+com.example.capstoneandroidexpert.core.R$dimen: int detail_poster_height
+com.example.capstoneandroidexpert.core.R$color: int colorStarGold
+com.example.capstoneandroidexpert.core.R$id: int ivPoster
+com.example.capstoneandroidexpert.core.R$layout: int item_movie
+com.example.capstoneandroidexpert.core.R$dimen: int text_title_medium
+com.example.capstoneandroidexpert.core.R$dimen: int margin_small
+com.example.capstoneandroidexpert.core.R$dimen: int detail_poster_width
+com.example.capstoneandroidexpert.core.R$dimen: int detail_poster_elevation
+com.example.capstoneandroidexpert.core.R$color: int background_color_dark
+com.example.capstoneandroidexpert.core.R$drawable: int image_placeholder_bg
+com.example.capstoneandroidexpert.core.R$dimen: int detail_backdrop_height
+com.example.capstoneandroidexpert.core.R$dimen: int movie_item_height
+com.example.capstoneandroidexpert.core.R$color: int image_placeholder_bg
+com.example.capstoneandroidexpert.core.R$id: int cardMovie
+com.example.capstoneandroidexpert.core.R$drawable: int ic_movie_off
+com.example.capstoneandroidexpert.core.R$dimen: int card_elevation
+com.example.capstoneandroidexpert.core.R$color: int surface_color_dark
+com.example.capstoneandroidexpert.core.R$dimen: int padding_medium
+com.example.capstoneandroidexpert.core.R$drawable: int ic_favorite
+com.example.capstoneandroidexpert.core.R$style: int RoundedCornerLeft
+com.example.capstoneandroidexpert.core.R$dimen: int padding_large
+com.example.capstoneandroidexpert.core.R$dimen: int text_body_small
+com.example.capstoneandroidexpert.core.R$color: int text_secondary_dark
+com.example.capstoneandroidexpert.core.R$id: int tvRating
+com.example.capstoneandroidexpert.core.R$dimen: int padding_small
+com.example.capstoneandroidexpert.core.R$color: int on_surface_dark
+com.example.capstoneandroidexpert.core.R$color: R$color()
+com.example.capstoneandroidexpert.core.R$style: R$style()
+com.example.capstoneandroidexpert.core.R$id: R$id()
+com.example.capstoneandroidexpert.core.R$string: R$string()
+com.example.capstoneandroidexpert.core.R$layout: R$layout()
+com.example.capstoneandroidexpert.core.R$dimen: R$dimen()
+com.example.capstoneandroidexpert.core.R$drawable: R$drawable()

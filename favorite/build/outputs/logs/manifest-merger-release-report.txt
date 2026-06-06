@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:5:5-12:19
+	dist:instant
+		ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:6:9-29
+	dist:title
+		ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:7:9-30
+dist:delivery
+ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:8:9-10:25
+dist:install-time
+ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:9:13-34
+dist:fusing
+ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:11:9-44
+	dist:include
+		ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml:11:22-41
+application
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml reason: application injection requested
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+	android:extractNativeLibs
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/favorite/src/main/AndroidManifest.xml

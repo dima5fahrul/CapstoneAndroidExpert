@@ -1,0 +1,1 @@
+:favorite::release;Capability: group='Capstone Android(Expert', name='favorite'

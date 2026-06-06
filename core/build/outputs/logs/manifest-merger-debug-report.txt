@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml:2:13-83
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml:2:13-83
+	package
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml
+	xmlns:android
+		ADDED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml:2:23-81
+uses-sdk
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml reason: use-sdk injection requested
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml
+INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml
+	android:minSdkVersion
+		INJECTED from /Users/dimasfahrul/Project/CapstoneAndroidExpert/core/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7998275845833923426.xml

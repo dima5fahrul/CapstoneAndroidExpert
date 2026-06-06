@@ -1,0 +1,110 @@
+[
+  {
+    "id": "task-task-3-movie-interactor-test",
+    "key": "task-3-movie-interactor-test",
+    "content": "Task completed: task-3-movie-interactor-test",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780760256802
+  },
+  {
+    "id": "task-task-4-movie-repository-test",
+    "key": "task-4-movie-repository-test",
+    "content": "Task completed: task-4-movie-repository-test",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780760511237
+  },
+  {
+    "id": "task-task-5-detail-viewmodel-test",
+    "key": "task-5-detail-viewmodel-test",
+    "content": "Task completed: task-5-detail-viewmodel-test",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780760715425
+  },
+  {
+    "id": "task-task-6-proguard-r8",
+    "key": "task-6-proguard-r8",
+    "content": "Task completed: task-6-proguard-r8",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780761117865
+  },
+  {
+    "id": "task-fix-release-build",
+    "key": "fix-release-build",
+    "content": "Task completed: fix-release-build",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780761845509
+  },
+  {
+    "id": "task-task-7-buildconfig-token",
+    "key": "task-7-buildconfig-token",
+    "content": "Task completed: task-7-buildconfig-token",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780762176392
+  },
+  {
+    "id": "task-task-9-certificate-pinning",
+    "key": "task-9-certificate-pinning",
+    "content": "Task completed: task-9-certificate-pinning",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780762861312
+  },
+  {
+    "id": "task-task-10-root-detection",
+    "key": "task-10-root-detection",
+    "content": "Task completed: task-10-root-detection",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780763184520
+  },
+  {
+    "id": "task-task-12-ci-gradle-plugins",
+    "key": "task-12-ci-gradle-plugins",
+    "content": "Task completed: task-12-ci-gradle-plugins",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "success": true,
+      "quality": 0.85
+    },
+    "createdAt": 1780763731754
+  }
+]

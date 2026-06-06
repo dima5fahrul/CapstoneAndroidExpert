@@ -1,0 +1,1 @@
+:setting::release;Capability: group='Capstone Android(Expert', name='setting'

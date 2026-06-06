@@ -1,0 +1,4 @@
+int id switch_theme 0x0
+int layout fragment_setting 0x0
+int string dark_mode 0x0
+int string settings 0x0

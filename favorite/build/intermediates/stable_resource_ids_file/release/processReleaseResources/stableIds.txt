@@ -1,0 +1,3 @@
+com.example.capstoneandroidexpert:layout/fragment_favorite = 0x80020000
+com.example.capstoneandroidexpert:id/tv_empty = 0x80010001
+com.example.capstoneandroidexpert:id/rv_favorite = 0x80010000
